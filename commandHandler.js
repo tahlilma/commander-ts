@@ -38,7 +38,6 @@ const commandHandler = (message) => {
     throwGeneric(message);
     return;
   }
-  console.log(ok)
 };
 
 module.exports = commandHandler;
