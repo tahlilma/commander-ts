@@ -1,5 +1,7 @@
 # WARNING
-This is an experimental version of commander. There are a few changes to the file structrue and the documentation below is not correct. I am too lazy to fix it so you need to figure out the changes by yourself. The way you run this is a bit different. You need to run `tsc --watch` in the project root directory and also have `npm run dev` (nodemon) running in the background. In this version of commander the commands are written with TypeScript. Everything else is still JavaScript.
+This is an experimental version of commander. There are a few changes to the file structrue and the documentation below is not correct. I am too lazy to fix it so you need to figure out the changes by yourself. The way you run this is a bit different. You need to run `tsc --watch` in the project root directory and also have `npm run dev` (nodemon) running in the background. In this version of commander the commands are written with TypeScript. Everything else is still JavaScript. 
+
+**IMPORTING ANY UTILS WILL COMPLETELY AND UTTERLY BREAK EVERYTHING**
 
 # Commander
 
